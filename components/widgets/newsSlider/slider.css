@@ -1,0 +1,28 @@
+.featured_items {
+    position : relative;
+    margin-bottom : 5px
+}
+
+.featured_items a {
+    position : absolute;
+    width: 100%;
+    bottom : 0px;
+    text-decoration: none;
+    color:white;
+    bottom : 0px;
+    width:50%;
+    padding:20px;
+    font-weight: 300;
+    font-size: 28px;
+}
+
+.featured_image {
+    height:330px;
+    width: 50%;
+    margin-left: 25%;
+    background-size : cover !important;
+    background-repeat: no-repeat !important;
+}
+
+
+

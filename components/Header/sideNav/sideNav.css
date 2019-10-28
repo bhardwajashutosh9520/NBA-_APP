@@ -1,0 +1,15 @@
+
+.option {
+    font-weight : 500;
+    font-size: 22px;
+    color :white;
+    padding : 10px;
+    border-top : 1px solid #404040
+}
+
+.option a {
+    color : white;
+    text-decoration: none;
+    margin-left:5px;
+    
+}

@@ -1,0 +1,19 @@
+.cardInfo {
+    font-size : 14px;
+}
+
+.cardInfo i {
+    margin-right : 15px;
+}
+
+.teamName {
+    margin-right:7px;
+    background :#d1d1d1;
+    color : white ;
+    padding : 2px 5px;
+}
+
+.date {
+    color : #2196f3;
+    margin-left : 25px;
+}
